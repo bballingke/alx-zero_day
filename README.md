@@ -1,1 +1,1 @@
-My first readme
+Class is going on well
